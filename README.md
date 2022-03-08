@@ -29,31 +29,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-marinho&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/gabriela-marinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-marinho&show_icons=true&theme=dark&line_height=27" alt="Gabriela's github stats"/>
-</a>
-
-
 <a href="https://github.com/gabriela-marinho/gabriela-marinho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho" />
 </a>
 
 <a href="https://github.com/gabriela-marinho/JavaBasico">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho&repo=JavaBasico&theme=dark" />
 </a>
 
 <br>
 <!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+![Gabriela's github stats](https://github-readme-stats.vercel.app/api?username=gabriela-marinho&show_icons=true&hide_border=true)
 -->
 
-<br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/gabriela-marinho/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 
