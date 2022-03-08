@@ -1,15 +1,5 @@
-<img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="120px"> 
+                            <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="120px"> 
 # I'm Gabriela and i have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
-
-
-
-
-
-
-  
-    <img align="right" alt="PC GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="190" />
-
-   
 
 
 <div align="center">
