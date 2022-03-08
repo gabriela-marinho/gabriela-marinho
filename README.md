@@ -1,4 +1,4 @@
-# Hi, I'm Gabriela <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="50px">
+# <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="110px"> I'm Gabriela
 
 
 <!-- 
