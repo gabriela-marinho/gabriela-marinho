@@ -29,8 +29,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-marinho&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/gabriela-marinho/gabriela-marinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho" />
+<a href="https://github.com/gabriela-marinho">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-marinho&show_icons=true&theme=dark&line_height=27" alt="Gabriela's github stats"/>
 </a>
 
 <a href="https://github.com/gabriela-marinho/JavaBasico">
