@@ -11,7 +11,7 @@
 
 <p>
   <em>
-   I have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
+    I have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -26,20 +26,20 @@
 <br>
 
 <a href="https://github.com/gabriela-marinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-marinho&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/gabriela-marinho">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela-marinho&show_icons=true&theme=dark&line_height=27" alt="Gabriela's github stats"/>
 </a>
 
 
 <a href="https://github.com/gabriela-marinho/gabriela-marinho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho" />
 </a>
 
 <a href="https://github.com/gabriela-marinho/JavaBasico">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho" />
 </a>
 
 <br>
