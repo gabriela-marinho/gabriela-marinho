@@ -1,9 +1,7 @@
-# <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="110px"> I'm Gabriela
+# <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="120px"> I'm Gabriela
 
 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
+
 
 <img align="right" alt="PC GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="190" />
 
