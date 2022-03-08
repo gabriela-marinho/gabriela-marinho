@@ -1,4 +1,4 @@
-# Hi, I'm Gabriela <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi, I'm Gabriela <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="50px">
 
 
 <!-- 
@@ -33,14 +33,14 @@
 </div>
     
     <div> 
-        Connect with me<img src="https://github.com/gabriela-marinho/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+        
         
   <a href = "mailto:g.barreto.marinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielabpmarinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+    </div>
 
 
 
