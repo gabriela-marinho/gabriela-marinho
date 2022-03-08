@@ -3,8 +3,10 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="200px"> 
+  <p>
   <h4> I'm Gabriela and i have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.</h4>
-  ##
+  </p>
+  
   <a href="https://github.com/gabriela-marinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriela-marinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-marinho&layout=compact&langs_count=7&theme=dracula"/>
