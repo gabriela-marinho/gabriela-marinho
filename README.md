@@ -7,11 +7,11 @@
 
 <img align="right" alt="PC GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello!** &nbsp;
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
+   I have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
@@ -21,31 +21,24 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/gabriela-marinho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/gabriela-marinho">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
 
-<a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
+<a href="https://github.com/gabriela-marinho/gabriela-marinho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
 </a>
 
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+<a href="https://github.com/gabriela-marinho/JavaBasico">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
