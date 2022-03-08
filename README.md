@@ -13,9 +13,7 @@
   <em>
     I have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
     
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
+   
 </p>
 
 <br>
@@ -33,7 +31,7 @@
 </a>
 
 <a href="https://github.com/gabriela-marinho/JavaBasico">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho&repo=JavaBasico&theme=dark" />
+ <img align="bootom" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriela-marinho&repo=JavaBasico&theme=dark" />
 </a>
 
 <br>
