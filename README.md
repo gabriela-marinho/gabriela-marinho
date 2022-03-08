@@ -5,10 +5,8 @@
 
 <img align="right" alt="PC GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="190" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello!** &nbsp;
-
 <p>
-  <em>
+  
     I have a degree in Systems Analysis and Development. Currently Full Stack Junior Developer working at Empresa Sotech Saúde.
     
    
