@@ -33,7 +33,8 @@
 </div>
     
     <div> 
-        # Connect with me<img src="https://github.com/gabriela-marinho/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+        Connect with me<img src="https://github.com/gabriela-marinho/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+        
   <a href = "mailto:g.barreto.marinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielabpmarinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
