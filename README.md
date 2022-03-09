@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif" width="210px"> 
   <p>
   <h4>  My name's Gabriela and i have a degree in Systems Analysis and Development. 
-        Currently Full Stack Junior Developer working at Sotech Saúde.</h4>
+        Currently Full Stack Junior Developer working at Sotech Saúde Company.</h4>
   </p>
   
   <a href="https://github.com/gabriela-marinho">
