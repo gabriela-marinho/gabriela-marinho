@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/2f7RQiiWMJc40/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlwZ3V6d3RtZTZ3dzYxNGh1OG90cjlxeTA0enpscHp6amVmM2FseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)" width="210px"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlwZ3V6d3RtZTZ3dzYxNGh1OG90cjlxeTA0enpscHp6amVmM2FseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif" width="210px"> 
   <p>
   <h4>  My name's Gabriela and i have a degree in Systems Analysis and Development. 
         Currently Full Stack Junior Developer working at Sotech Saúde Company.</h4>
